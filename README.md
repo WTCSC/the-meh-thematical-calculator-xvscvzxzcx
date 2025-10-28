@@ -68,10 +68,3 @@ Tests cover:
 - Multiplication including zero
 - Division including division by zero and decimal results
 
----
-
-## Notes
-
-- Division by zero returns None to avoid crashing the program.
-- Modify calculator.py to handle more advanced operations if desired.
-"""
