@@ -19,6 +19,7 @@ A simple Python calculator with a sarcastic twist. Supports basic arithmetic ope
 1. Clone the repository:
 
     git clone <your-repo-url>
+    
     cd <repo-directory>
 
 ## Usage
