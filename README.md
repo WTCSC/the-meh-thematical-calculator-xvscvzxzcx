@@ -21,17 +21,6 @@ A simple Python calculator with a sarcastic twist. Supports basic arithmetic ope
     git clone <your-repo-url>
     cd <repo-directory>
 
-2. (Optional) Create a virtual environment:
-
-    python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-3. Install dependencies (pytest):
-
-    pip install pytest
-
----
-
 ## Usage
 
 Run the calculator:
