@@ -58,3 +58,7 @@ Tests cover:
 - Multiplication including zero
 - Division including division by zero and decimal results
 
+## Decision Tree
+
+<img width="885" height="392" alt="Screenshot 2025-11-03 191705" src="https://github.com/user-attachments/assets/c22b548f-c5bf-40b8-b8d6-b6c725985211" />
+
